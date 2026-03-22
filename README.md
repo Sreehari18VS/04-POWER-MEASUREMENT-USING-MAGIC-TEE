@@ -68,11 +68,6 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 <img width="1080" height="224" alt="image" src="https://github.com/user-attachments/assets/daf889e7-93e8-426a-8243-77ab37678a24" />
 
 </br>
-</br>
-</br>
-</br>
-
-
 **G.	Analysis of Results:**
 
 Isolation = A₁ − A₂ = 20.0 − 1.0 = 19.0 dB.
